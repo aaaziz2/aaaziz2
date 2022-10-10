@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaaziz2
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on Javascro[t
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me aumio.aziz@gmail.com
 
 <!---
